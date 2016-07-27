@@ -1,0 +1,3 @@
+ThoughtIntent tell me a thought of the day
+ThoughtIntent give me a thought of the day
+ThoughtIntent thought of the day

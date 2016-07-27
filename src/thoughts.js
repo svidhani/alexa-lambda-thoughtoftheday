@@ -1,5 +1,4 @@
-module.exports = function(){
-	this.thoughtsList = ["It is not how we make mistakes, but how we correct them, that define us. Our mistakes do not define us, they teach us. It is inevitable that we will make mistakes on our journey throughout life, but they do not define us ever.",
+module.exports =  ["It is not how we make mistakes, but how we correct them, that define us. Our mistakes do not define us, they teach us. It is inevitable that we will make mistakes on our journey throughout life, but they do not define us ever.",
 	"Success comes to those who have the will power to win over their snooze buttons.",
 	"No matter how many times the teeth bite the tongue, still they stay together in the same mouth. That is the spirit of forgiveness.",
 	"Positive thinking may not guarantee success, but negative thinking definitely guarantees failure. So always have a positive attitude.",
@@ -32,4 +31,3 @@ module.exports = function(){
 	"Of course motivation is not permanent. But then neither is bathing;  it is something you should do on a regular basis.",
 	"You are never as good as everyone tells you when you win and you are never as bad as they say when you lose."
 	];
-}
